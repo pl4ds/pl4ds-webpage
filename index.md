@@ -49,7 +49,7 @@ XX says:
 | Topic 5       | Topic 4       |
 
 
-Find a link here: [link]({{ site.github.url }})
+Find a link here: [link](google.com)
  
 <div>
   <!-- we can use raw html inside -->
