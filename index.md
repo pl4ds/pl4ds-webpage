@@ -12,6 +12,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ## PL4DS Events
 
 [Shonan - Japan](https://drive.google.com/drive/folders/1iwa_n9b31ObNDKv1kdaQ9Gp44dNZHcE1)
+[Shonan - Japan](/pages/shonan.md)
+
 
 ### Results
 
