@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ## Presentations
 
 
-- [Alessandro_Margara](https://github.com/pl4ds/Shonan-2019/blob/master/Alessandro_Margara.pdf)
+- [Alessandro Margara](https://github.com/pl4ds/Shonan-2019/blob/master/Alessandro_Margara.pdf)
 - [Carla Ferreira](https://github.com/pl4ds/Shonan-2019/blob/master/Carla_Ferreira.pdf)
 - [Carlos Baquero](https://github.com/pl4ds/Shonan-2019/blob/master/Carlos_Baquero.pdf)
 - [Carlos Varela](https://github.com/pl4ds/Shonan-2019/blob/master/Carlos_Varela.pdf)
