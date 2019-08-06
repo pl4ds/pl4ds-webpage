@@ -28,7 +28,7 @@ In recent years, there have been, notable advances in research on programming la
 
 ### PL4DS Shonan Seminar (date)
 
-<img src="/assets/images/group_photo.jpg" alt="group_photo" width="250" align="right"/>
+<img src="./assets/images/group_photo.jpg" alt="group_photo" width="250" align="right"/>
 
 - [Meeting Page](https://shonan.nii.ac.jp/seminars/149/)
 
