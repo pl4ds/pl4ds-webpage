@@ -1,5 +1,3 @@
-[PL4DS-Repository](https://github.com/pl4ds)
-
 # PL4DS Meetings and Event Series
 
 PL4DS is a a series of meetings and events around research on Programming Languages for Distributed Systems.
@@ -11,22 +9,18 @@ Programming languages for distributed systems have been flourishing in the past,
 
 ### What it was about
 
-Developing distributed systems is a well-known, decades-old problem in Computer Science. Despite significant research effort has been dedicated to this area, developing distributed systems remains challenging. To complicate things, over the last years, we observed the rise of a complex scenario, with heterogeneous platforms, interconnected systems and decentralized functionalities. This model, referred to as edge computing, is driven – among others – by forces like the need of reducing latency in geodistributed services via multiple data centers, the advent of purpose- driven microservices, and the spreading of in-field decision intelligence in the Internet of Things.
+Developing distributed systems is a well-known, decades-old problem in Computer Science. Despite significant research effort has been dedicated to this area, developing distributed systems remains challenging. 
 
-Programming languages are a fundamental tool to face the complexity of such a scenario. In compar- ison, however, these have seen modest improvements. Arguably, many ideas for supporting distribution adopted in production languages date back to the early ’90s with CORBA/RMI, and even earlier with the Actor model and concurrent objects. In contrast, language abstractions have been mostly a key asset for determining the popularity of dedicated systems. For example, MapReduce takes advantage of purity to parallelise task processing, complex event processing adopts declarative program- ming to express sophisticated event correlations and Spark leverages functional programming for efficient fault recovery via lineage – to provide some examples.
+Programming languages are a fundamental tool to face the complexity of such a scenario. In comparison, however, these have seen modest improvements. Arguably, many ideas for supporting distribution adopted in production languages date back to the early ’90s with CORBA/RMI, and even earlier with the Actor model and concurrent objects. 
 
-There have been, notable advances in research on programming languages for distributed systems, such as cloud types for eventual consistency, conflict-free replicated data types (CRDT) , lan- guage support for safe distribution of computations and fault tolerance, as well as programming frameworks for mixed IoT/Cloud development, such as Ericsson’s Calvin – just to mention a few. However, these efforts have seen limited adoption and the researchers that have been carrying out these efforts are scattered across different communities that include verification and formal methods in general, programming language design, database theory, distributed systems, systems programming, data-centric programming, and web application development.
+In recent years, there have been, notable advances in research on programming languages for distributed systems (e.g, CRDTs, lineage in Spark, functional programming in MapReduce, verification of distributed algorithms, language integrated queries). However, the researchers that have been carrying out these efforts are scattered across different communities that include verification and formal methods in general, programming language design, database theory, distributed systems, systems programming, data-centric programming, and web application development.
 
-In contrast, the field of programming languages for distributed systems has been a flourishing research area in the past, with influential contributions like Argus, Emerald, and Distributed OZ.
-
-## PL4DS Events
+# PL4DS Events
 
 ### PL4DS Dagstuhl Seminar (October 2019)
 
 
 [Meeting Page](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442)
-
-[Presentations](https://github.com/pl4ds/Dagstuhl-2019/blob/master/pages/Dagstuhl.md)
 
 ---
 
