@@ -4,11 +4,10 @@ PL4DS is a a series of meetings and events around research on Programming Langua
 
 Programming languages for distributed systems have been flourishing in the past, providing ideas for the development of complex systems that have been deeply influential. However, over the last few years, researchers focusing on this area are scattered across different communities with limited interaction.
 
-https://twitter.com/search?q=%23pl4ds&src=typed_query
+[Twitter](https://twitter.com/search?q=%23pl4ds&src=typed_query)
 
 
 ### What it was about
-
 
 Developing distributed systems is a well-known, decades-old problem in Computer Science. Despite significant research effort has been dedicated to this area, developing distributed systems remains challenging. To complicate things, over the last years, we observed the rise of a complex scenario, with heterogeneous platforms, interconnected systems and decentralized functionalities. This model, referred to as edge computing, is driven – among others – by forces like the need of reducing latency in geodistributed services via multiple data centers, the advent of purpose- driven microservices, and the spreading of in-field decision intelligence in the Internet of Things.
 
@@ -22,13 +21,11 @@ In contrast, the field of programming languages for distributed systems has been
 
 ### PL4DS Dagstuhl Seminar (October 2019)
 
-https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442
+[Meeting Page](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442)
 
 ### PL4DS Shonan Seminar (date)
 
 <img src="/assets/images/shonan.jpeg" alt="shonan_photo" width="250" align="right"/>
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 [Meeting Page](https://shonan.nii.ac.jp/seminars/149/)
 
@@ -44,12 +41,3 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 
 ### PL4DS Meeting in Darmstadt (date)
-
-
-
-Find a link here: [link](https://drive.google.com/drive/folders/1iwa_n9b31ObNDKv1kdaQ9Gp44dNZHcE1)
- 
-<div>
-  <!-- we can use raw html inside -->
-  <h5> contributors: {{ site.github.organization_members | default: "none" }} </h5>
-</div>
