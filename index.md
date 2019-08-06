@@ -20,6 +20,7 @@ In contrast, the field of programming languages for distributed systems has been
 ## PL4DS Events
 
 ### PL4DS Dagstuhl Seminar (October 2019)
+---
 
 [Meeting Page](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442)
 
