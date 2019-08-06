@@ -32,6 +32,12 @@ https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442
 
 [Presentations](https://github.com/pl4ds/Shonan-2019/blob/master/Pages/shonan.md)
 
+
+
+
+
+
+
 ![group_photo](/assets/images/group_photo.jpg)
 
 
