@@ -1,6 +1,7 @@
-# Welcome to {{ site.title }}!
+# PL4DS Meetings and Event Series
 
-![group_photo](/assets/images/group_photo.jpg)
+PL4DS is a a series of meetings and events around research on Programming Languages for Distributed Systems.
+
 
 ### What it was about
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
@@ -11,46 +12,17 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## PL4DS Events
 
+### PL4DS Dagstuhl Seminar (October 2019)
+
+### PL4DS Shonan Seminar (date)
+
 [Shonan - Japan](/pages/shonan.md)
 
+![group_photo](/assets/images/group_photo.jpg)
 
-### Results
 
-```scala
-def ps4ds() : Unit = {
-  
-}
-```
+### PL4DS Meeting in Darmstadt (date)
 
-### List of Participants
-- Participant1
-- Participant2
-- Participant3
-  - did not attend
-  
-
-1. Participant1
-2. Participant2
-3. Participant3
-
-The meeting was scheduled at ~~May 2019~~ **June 2019** **_(X Days)_**, in _Japan_
-
-XX says:
-> best meeting ever
-
-### Tasks done
-
-- [x] Greeting
-- [x] Talks
-- [x] Discussions
-- [ ] Photo
-
-### Groups
-
-| Group1        | Group2        |
-| ------------- |:-------------:|
-| Topic 1       | Topic 2       |
-| Topic 5       | Topic 4       |
 
 
 Find a link here: [link](https://drive.google.com/drive/folders/1iwa_n9b31ObNDKv1kdaQ9Gp44dNZHcE1)
