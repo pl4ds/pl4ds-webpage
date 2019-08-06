@@ -25,7 +25,7 @@ In contrast, the field of programming languages for distributed systems has been
 
 ### PL4DS Shonan Seminar (date)
 
-<img src="/assets/images/shonan.jpeg" alt="shonan_photo" width="250" align="right"/>
+<img src="/assets/images/group_photo.jpg" alt="shonan_photo" width="250" align="right"/>
 
 [Meeting Page](https://shonan.nii.ac.jp/seminars/149/)
 
@@ -35,9 +35,5 @@ In contrast, the field of programming languages for distributed systems has been
 <br/>
 <br/>
 <br/>
-
-
-![group_photo](/assets/images/group_photo.jpg)
-
 
 ### PL4DS Meeting in Darmstadt (date)
