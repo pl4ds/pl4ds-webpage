@@ -1,3 +1,5 @@
+[PL4DS-Repository](https://github.com/pl4ds)
+
 # PL4DS Meetings and Event Series
 
 PL4DS is a a series of meetings and events around research on Programming Languages for Distributed Systems.
@@ -20,7 +22,9 @@ In recent years, there have been, notable advances in research on programming la
 ### PL4DS Dagstuhl Seminar (October 2019)
 
 
-[Meeting Page](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442)
+- [Meeting Page](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442)
+
+- [Presentations](https://github.com/pl4ds/Dagstuhl-2019/blob/master/pages/Dagstuhl.md)
 
 ---
 
@@ -28,9 +32,9 @@ In recent years, there have been, notable advances in research on programming la
 
 <img src="/assets/images/group_photo.jpg" alt="shonan_photo" width="250" align="right"/>
 
-[Meeting Page](https://shonan.nii.ac.jp/seminars/149/)
+- [Meeting Page](https://shonan.nii.ac.jp/seminars/149/)
 
-[Presentations](https://github.com/pl4ds/Shonan-2019/blob/master/Pages/shonan.md)
+- [Presentations](https://github.com/pl4ds/Shonan-2019/blob/master/Pages/shonan.md)
 
 <br/>
 <br/>
@@ -41,4 +45,4 @@ In recent years, there have been, notable advances in research on programming la
 
 ### PL4DS Meeting in Darmstadt (February 2018)
 
-[Presentations](https://github.com/pl4ds/Darmstadt-2018/blob/master/pages/darmstadt.md)
+- [Presentations](https://github.com/pl4ds/Darmstadt-2018/blob/master/pages/darmstadt.md)
