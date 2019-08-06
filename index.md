@@ -1,6 +1,6 @@
-# PL4DS Meetings and Event Series
-
 [PL4DS-Repository](https://github.com/pl4ds)
+
+# PL4DS Meetings and Event Series
 
 PL4DS is a a series of meetings and events around research on Programming Languages for Distributed Systems.
 
