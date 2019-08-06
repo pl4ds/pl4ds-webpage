@@ -1,5 +1,7 @@
 # PL4DS Meetings and Event Series
 
+[PL4DS-Repository](https://github.com/pl4ds)
+
 PL4DS is a a series of meetings and events around research on Programming Languages for Distributed Systems.
 
 Programming languages for distributed systems have been flourishing in the past, providing ideas for the development of complex systems that have been deeply influential. However, over the last few years, researchers focusing on this area are scattered across different communities with limited interaction.
@@ -23,6 +25,7 @@ In contrast, the field of programming languages for distributed systems has been
 
 
 [Meeting Page](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442)
+[Presentations](https://github.com/pl4ds/Dagstuhl-2019/blob/master/pages/Dagstuhl.md)
 
 ---
 
