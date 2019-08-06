@@ -25,7 +25,7 @@ https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442
 
 ### PL4DS Shonan Seminar (date)
 
-[Shonan - Japan](/pages/shonan.md)
+[Shonan - Japan](https://github.com/pl4ds/Shonan-2019/blob/master/Pages/shonan.md)
 
 https://shonan.nii.ac.jp/seminars/149/
 
