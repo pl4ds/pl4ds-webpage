@@ -4,7 +4,7 @@ PL4DS is a a series of meetings and events around research on Programming Langua
 
 Programming languages for distributed systems have been flourishing in the past, providing ideas for the development of complex systems that have been deeply influential. However, over the last few years, researchers focusing on this area are scattered across different communities with limited interaction.
 
-[Twitter](https://twitter.com/search?q=%23pl4ds&src=typed_query)
+[#PL4DS on Twitter](https://twitter.com/search?q=%23pl4ds&src=typed_query)
 
 
 ### What it was about
