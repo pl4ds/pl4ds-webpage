@@ -7,7 +7,7 @@ Programming languages for distributed systems have been flourishing in the past,
 [#PL4DS on Twitter](https://twitter.com/search?q=%23pl4ds&src=typed_query)
 
 
-### What it was about
+### What this is about
 
 Developing distributed systems is a well-known, decades-old problem in Computer Science. Despite significant research effort has been dedicated to this area, developing distributed systems remains challenging. 
 
