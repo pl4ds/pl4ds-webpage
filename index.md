@@ -18,7 +18,7 @@ In recent years, there have been, notable advances in research on programming la
 # PL4DS Events
 
 ### PL4DS Dagstuhl Seminar (October 2019)
-
+<img src="./assets/images/DagstuhlSeminar.jpg" alt="DagstuhlSeminar" width="250" align="right"/>
 
 - [Meeting Page](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442)
 
@@ -42,5 +42,7 @@ In recent years, there have been, notable advances in research on programming la
 ---
 
 ### PL4DS Meeting in Darmstadt (February 2018)
+<img src="./assets/images/TU_Darmstadt_Logo.jpg" alt="TU_Darmstadt_Logo" width="250" align="right"/>
+
 
 - [Presentations](https://github.com/pl4ds/Darmstadt-2018/blob/master/pages/darmstadt.md)
