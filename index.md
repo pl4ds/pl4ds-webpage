@@ -17,6 +17,15 @@ In recent years, there have been, notable advances in research on programming la
 
 # PL4DS Events
 
+
+### PLDS Workshop (March 2020)
+
+Organied by Paris Carbone and Lars Kroll.
+
+- [Workshop Page](https://plds.github.io/programme.html)
+
+
+
 ### PL4DS Dagstuhl Seminar (October 2019)
 <img src="./assets/images/DagstuhlSeminar.jpg" alt="DagstuhlSeminar" width="250" align="right"/>
 
