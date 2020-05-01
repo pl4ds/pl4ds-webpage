@@ -24,7 +24,12 @@ Organied by Paris Carbone and Lars Kroll.
 
 - [Workshop Page](https://plds.github.io/programme.html)
 
+<br/>
+<br/>
+<br/>
+<br/>
 
+---
 
 ### PL4DS Dagstuhl Seminar (October 2019)
 <img src="./assets/images/DagstuhlSeminar.jpg" alt="DagstuhlSeminar" width="250" align="right"/>
