@@ -34,6 +34,7 @@ Organized by Paris Carbone and Lars Kroll.
 ### PL4DS Dagstuhl Seminar (October 2019)
 <img src="./assets/images/DagstuhlSeminar.jpg" alt="DagstuhlSeminar" width="250" align="right"/>
 
+Organized by Carla Ferreira, Philipp Haller, Guido Salvaneschi.
 
 - [Meeting Page](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442)
 
@@ -50,6 +51,8 @@ Organized by Paris Carbone and Lars Kroll.
 
 <img src="./assets/images/group_photo.jpg" alt="group_photo" width="250" align="right"/>
 
+Organized by Philipp Haller, Guido Salvaneschi, Takuo Watanabe, Gul Agha
+
 - [Meeting Page](https://shonan.nii.ac.jp/seminars/149/)
 
 - [Presentations](https://github.com/pl4ds/Shonan-2019/blob/master/Pages/shonan.md)
@@ -64,6 +67,7 @@ Organized by Paris Carbone and Lars Kroll.
 ### PL4DS Meeting in Darmstadt (February 2018)
 <img src="./assets/images/TU_Darmstadt_Logo.png" alt="TU_Darmstadt_Logo" width="250" align="right"/>
 
+Organized by Guido Salvaneschi, Mira Mezini, Philipp Haller.
 
 - [Presentations](https://github.com/pl4ds/Darmstadt-2018/blob/master/pages/darmstadt.md)
 
