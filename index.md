@@ -20,7 +20,7 @@ In recent years, there have been, notable advances in research on programming la
 
 ### PLDS Workshop (March 2020)
 
-Organied by Paris Carbone and Lars Kroll.
+Organized by Paris Carbone and Lars Kroll.
 
 - [Workshop Page](https://plds.github.io/programme.html)
 
