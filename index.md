@@ -32,6 +32,18 @@ Organized by Paris Carbone and Lars Kroll.
 
 ---
 
+<div class="event">
+  <h3>PL4DS Dagstuhl Seminar</h3>
+  <span class="date">October 2019</span>
+  
+  <div class="event-content">
+  <p>Organized by Carla Ferreira, Philipp Haller, Guido Salvaneschi.</p>
+  <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442">Meeting Page</a>
+  <a href="https://github.com/pl4ds/Dagstuhl-2019/blob/master/pages/Dagstuhl.md">Presentations</a>
+  </div>
+</div>
+
+
 ### PL4DS Dagstuhl Seminar (October 2019)
 <img src="./assets/images/DagstuhlSeminar.jpg" alt="DagstuhlSeminar" width="250" align="right"/>
 
