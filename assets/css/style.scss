@@ -18,5 +18,28 @@
 }
 
 a{
+  margin:1rem 1rem 0 0;
+  font-variant:small-caps;
+  display:inline-block;
   color:#656541;
 }
+p{
+  font-size:0.9em;
+}
+
+.event{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #f5f9fd;
+  padding: 2rem;
+}
+
+.date{
+  width: 100%;
+  font-style: italic;
+  font-size: 0.95rem;
+  margin-bottom: 1.5rem;
+  margin-top: -0.25rem;
+  display: block;
+}
+
