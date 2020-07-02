@@ -29,6 +29,7 @@ p{
 }
 
 .event{
+  box-shadow:0 .5rem 1rem rgba(0,0,0,.1)!important
   display: flex;
   justify-content:space-between;
   flex-wrap: wrap;
@@ -47,11 +48,15 @@ p{
   max-height:100%;
   object-fit:fill;
 }
+.event,
+.event-image img{
+  border-radius: 0 25px 25px 0;
+}
 
 .date{
   width: 100%;
   font-style: italic;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   margin-bottom: 1.5rem;
   margin-top: -1rem;
   display: block;
