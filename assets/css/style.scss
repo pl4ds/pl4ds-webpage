@@ -29,7 +29,7 @@ p{
 }
 
 .event{
-  box-shadow:0 .5rem 1rem rgba(0,0,0,.1)!important
+  box-shadow:0 .5rem 1rem rgba(0,0,0,.1)!important;
   display: flex;
   justify-content:space-between;
   flex-wrap: wrap;
@@ -50,7 +50,7 @@ p{
 }
 .event,
 .event-image img{
-  border-radius: 0 25px 25px 0;
+  border-radius: 0 5px 5px 0;
 }
 
 .date{
