@@ -18,26 +18,37 @@
 }
 
 a{
+  font-size:1.1rem;
   margin:1rem 1rem 0 0;
   font-variant:all-small-caps;
   display:inline-block;
   color:#656541;
 }
 p{
-  font-size:0.9em;
+  font-size:0.9rem;
 }
 
 .event{
   display: flex;
   flex-wrap: wrap;
   background-color: #f5f9fd;
-  padding: 2rem;
+}
+.event-content{
+  padding:1.5rem;
+}
+.event-image{
+  height:auto;
+  width:300px;
+}
+.event-image img{
+  height:auto;
+  object-fit:fill;
 }
 
 .date{
   width: 100%;
   font-style: italic;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   margin-bottom: 1.5rem;
   margin-top: -1rem;
   display: block;
