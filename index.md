@@ -14,8 +14,7 @@ Programming languages are a fundamental tool to face the complexity of such a sc
 
 In recent years, there have been, notable advances in research on programming languages for distributed systems (e.g, CRDTs, lineage in Spark, functional programming in MapReduce, verification of distributed algorithms, language integrated queries). However, the researchers that have been carrying out these efforts are scattered across different communities that include verification and formal methods in general, programming language design, database theory, distributed systems, systems programming, data-centric programming, and web application development.
 
-<h2 class="underline mb">Recent Events</h2>
-
+<h2 class="block">Recent PL4DS Events</h2>
 <ul>
   <li class="event">
     <div class="event-content">
