@@ -88,10 +88,11 @@ li{
   padding:0 1rem;
   height:auto;
   max-width:300px;
+  max-height:85%;
 }
 .event-image img{
   box-shadow:0 0 5px 1px #ddd;
-  max-height:85%;
+  max-height:100%;
   object-fit:fill;
   border-radius: 3px;
 }
