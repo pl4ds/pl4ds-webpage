@@ -54,6 +54,7 @@ ul,li{
 .block *{
   margin-bottom:0 !important;
   color:#fff !important;
+  font-weight:bold;
 }
 
 .event{
@@ -68,8 +69,9 @@ ul,li{
   max-width:500px;
   padding:0.75rem 1.5rem 1rem 1.5rem;
 }
-.event-content h2{
+.event-content h3{
   font-variant:small-caps;
+  font-weight:bold;
 }
 .event-image{
   display: flex;
