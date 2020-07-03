@@ -9,7 +9,7 @@
 .main-content h4,
 .main-content h5,
 .main-content h6{
-  color:#416565;
+  color:#008080;
 }
 
 .page-header{
@@ -22,14 +22,17 @@ a{
   margin:1rem 1rem 0 0;
   font-variant:all-small-caps;
   display:inline-block;
-  color:#656541;
+  color:#656540;
 }
 p{
   font-size:0.92rem;
 }
+ul{
+  padding:0 !important;
+}
 
 .event{
-  box-shadow:0 .5rem 1rem rgba(0,0,0,.1)!important;
+  box-shadow:-0.5rem 0.25rem 1rem rgba(0,0,0,0.1) !important;
   display: flex;
   justify-content:space-between;
   flex-wrap: wrap;
