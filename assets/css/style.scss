@@ -13,12 +13,15 @@
 }
 
 .page-header{
-  background:#654165;
-  background:linear-gradient(60deg, #654165, #494165);
+  background:transparent;
   padding-bottom:3rem;
-  border-bottom:20px solid #ffffff6b;
+  border-bottom:20px solid #6291cc94;
   margin-bottom:1rem;
+  border-radius:9999px;
   //background:url(../images/cool-background.png) no-repeat center;
+}
+.page-header .project-tagline{
+  color:#966464;
 }
 
 a{
