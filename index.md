@@ -15,36 +15,24 @@ Programming languages are a fundamental tool to face the complexity of such a sc
 
 In recent years, there have been, notable advances in research on programming languages for distributed systems (e.g, CRDTs, lineage in Spark, functional programming in MapReduce, verification of distributed algorithms, language integrated queries). However, the researchers that have been carrying out these efforts are scattered across different communities that include verification and formal methods in general, programming language design, database theory, distributed systems, systems programming, data-centric programming, and web application development.
 
-# PL4DS Events
+# Recent Events
 
 ---
 
-### PLDS Workshop (March 2020)
-
-Organized by Paris Carbone and Lars Kroll.
-
-- [Workshop Page](https://plds.github.io/programme.html)
-
-<br/>
-<br/>
-<br/>
-<br/>
-
----
-
-<div class="event">
-  <div class="event-content">
-    <h3>PL4DS Dagstuhl Seminar</h3>
-    <span class="date">October 2019</span>
-    <p>Organized by Carla Ferreira, Philipp Haller, Guido Salvaneschi.</p>
-    <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442">Meeting Page</a>
-    <a href="https://github.com/pl4ds/Dagstuhl-2019/blob/master/pages/Dagstuhl.md">Presentations</a>
-  </div>
-  <div class="event-image">
-    <img src="./assets/images/DagstuhlSeminar.jpg" alt="DagstuhlSeminar" width="250" align="right"/>
-  </div>
-</div>
-
+<ul>
+  <li class="event">
+    <div class="event-content">
+      <h3>PL4DS Dagstuhl Seminar</h3>
+      <span class="date">October 2019</span>
+      <p>Organized by Carla Ferreira, Philipp Haller, Guido Salvaneschi.</p>
+      <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442">Meeting Page</a>
+      <a href="https://github.com/pl4ds/Dagstuhl-2019/blob/master/pages/Dagstuhl.md">Presentations</a>
+    </div>
+    <div class="event-image">
+      <img src="./assets/images/DagstuhlSeminar.jpg" alt="DagstuhlSeminar" width="250" align="right"/>
+    </div>
+  </li>
+</ul>
 
 ### PL4DS Dagstuhl Seminar (October 2019)
 <img src="./assets/images/DagstuhlSeminar.jpg" alt="DagstuhlSeminar" width="250" align="right"/>
