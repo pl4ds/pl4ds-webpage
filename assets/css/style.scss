@@ -35,11 +35,12 @@ li{
 }
 
 .underline{
+  margin-bottom:3rem;
   border-bottom:1px solid #ddd;
 }
 
 .event{
-  box-shadow:-0.5rem 0.25rem 1rem rgba(0,0,0,0.1) !important;
+  box-shadow:-0.1rem 0.1rem 0.5rem rgba(0,0,0,0.15) !important;
   display: flex;
   justify-content:space-between;
   flex-wrap: wrap;
@@ -48,6 +49,9 @@ li{
 .event-content{
   max-width:500px;
   padding:1.5rem;
+}
+.event-content h2{
+  font-variant:small-caps;
 }
 .event-image{
   display: flex;
