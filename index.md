@@ -2,6 +2,7 @@
 
 <p class="subteaser">Programming languages for distributed systems have been flourishing in the past, providing ideas for the development of complex systems that have been deeply influential. However, over the last few years, researchers focusing on this area are scattered across different communities with limited interaction.</p>
 
+Join us on Twitter, <a href="https://twitter.com/search?q=%23PL4DS">#PL4DS</a>
 <a href="https://twitter.com/intent/tweet?button_hashtag=PL4DS&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-show-count="false">Tweet #PL4DS</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -18,9 +19,9 @@ In recent years, there have been, notable advances in research on programming la
 <ul>
   <li class="event">
     <div class="event-content">
-      <h3>Dagstuhl Seminar</h3>
-      <span class="date">October 2019</span>
-      <p>The PL4DS Dagstuhl Seminar was held on October 27 - 31, 2019 at Schloss Dagstuhl, Germany. It was organized by <i>Carla Ferreira</i>, <i>Philipp Haller</i>, and <i>Guido Salvaneschi</i>.</p>
+      <h2>pl4ds Dagstuhl Seminar</h2>
+      <span class="date">October 27 - 31, 2019 at Schloss Dagstuhl, Germany</span>
+      <p>Organized by <i>Carla Ferreira</i>, <i>Philipp Haller</i>, and <i>Guido Salvaneschi</i>.</p>
       <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442">Meeting Page</a>
       <a href="https://github.com/pl4ds/Dagstuhl-2019/blob/master/pages/Dagstuhl.md">Presentations</a>
     </div>
@@ -30,9 +31,9 @@ In recent years, there have been, notable advances in research on programming la
   </li>
   <li class="event">
     <div class="event-content">
-      <h3>Shonan Seminar</h3>
-      <span class="date">May 2019</span>
-      <p>The PL4DS Shonan Seminar was held from May 27 - 30, 2019 in the Shonan Village Center in Kamiyamaguchi, Japan. It was organized by <i>Philipp Haller</i>, <i>Guido Salvaneschi</i>, <i>Takuo Watanabe</i>, and <i>Gul Agha</i>.</p>
+      <h2>pl4ds Shonan Seminar</h2>
+      <span class="date">May 27 - 30, 2019 in Shonan Village Center, Kamiyamaguchi, Japan</span>
+      <p>Organized by <i>Philipp Haller</i>, <i>Guido Salvaneschi</i>, <i>Takuo Watanabe</i>, and <i>Gul Agha</i>.</p>
       <a href="https://shonan.nii.ac.jp/seminars/149/">Meeting Page</a>
       <a href="https://github.com/pl4ds/Shonan-2019/blob/master/Pages/shonan.md">Presentations</a>
     </div>
@@ -42,9 +43,9 @@ In recent years, there have been, notable advances in research on programming la
   </li>
   <li class="event">
     <div class="event-content">
-      <h3>Meeting in Darmstadt</h3>
-      <span class="date">February 2019</span>
-      <p>The PL4DS meeting was held on February 23, 2019 in Darmstadt, Germany. It was organized by <i>Guido Salvaneschi</i>, <i>Mira Mezini</i>, and <i>Philipp Haller</i>.</p>
+      <h2>pl4ds Meeting in Darmstadt</h2>
+      <span class="date">February 23, 2019 in Darmstadt, Germany</span>
+      <p>Organized by <i>Guido Salvaneschi</i>, <i>Mira Mezini</i>, and <i>Philipp Haller</i>.</p>
       <a href="https://github.com/pl4ds/Darmstadt-2018/blob/master/pages/darmstadt.md">Presentations</a>
     </div>
     <div class="event-image">
