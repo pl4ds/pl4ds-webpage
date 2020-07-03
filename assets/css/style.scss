@@ -21,15 +21,29 @@
 }
 
 .page-header{
+  position:relative;
   margin:auto;
-  max-width:80%;
+  max-width:75%;
   background:transparent;
-  padding:3rem 4rem;
-  border-bottom:15px groove rgba(98, 145, 204, 0.66);
+  padding:3rem 4rem 4rem;
+  //border-bottom:15px groove rgba(98, 145, 204, 0.66);
   margin-bottom:2rem;
-  border-radius:0px 100px 500px 150px;
+  //border-radius:0px 100px 800px 150px;
   //background:url(../images/cool-background.png) no-repeat center;
 }
+.page-header::after{
+  background:rgba(90, 118, 155, 0.3);
+  content:"-";
+  position:absolute;
+  left:-2000px;
+  right:0;
+  bottom:-25px;
+  color:transparent;
+  width:4000px;
+  height:1000px;
+  transform:rotate(-5deg);
+}
+
 .page-header .project-name{
   color:#47668e;
 }
@@ -116,7 +130,7 @@ li{
 .event-image img{
   text-align:right;
   box-shadow:0 0 5px 1px #ddd;
-  max-height:85%;
+  max-height:150px;
   object-fit:cover;
   border-radius: 3px;
 }
