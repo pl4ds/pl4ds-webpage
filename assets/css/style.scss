@@ -32,11 +32,19 @@
 }
 
 a{
-  font-size:1.1rem;
+  display: inline-block;
+  border: 2px solid #8e6f4721;
+  background: #8e6f477d;
+  padding: 0.15rem 0.33rem 0.15rem;
+  letter-spacing: 0.03rem;
+  line-height: 1rem;
   margin:1rem 1rem 0 0;
   font-variant:all-small-caps;
-  display:inline-block;
-  color:#8E6F47;
+  color:#fff;
+}
+a:hover{
+  text-decoration:none;
+  opacity:0.8; 
 }
 p{
   font-size:0.875rem;
