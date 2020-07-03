@@ -48,13 +48,10 @@ ul,li{
 .block{
   background:#555;
   color:#fff !important;
+  font-weight:bold;
+  margin-bottom:0 !important;
   padding:0.5rem 1rem;
   width:100%;
-}
-.block *{
-  margin-bottom:0 !important;
-  color:#fff !important;
-  font-weight:bold;
 }
 
 .event{
@@ -89,7 +86,7 @@ ul,li{
 }
 
 .date{
-  color:#777;
+  color:#888;
   width: 100%;
   font-style: italic;
   font-size: 0.75rem;
