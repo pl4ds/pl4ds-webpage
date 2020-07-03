@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+@media only screen and (max-width: 1024px) {
+  .event .event-image {
+    display: none;
+  }
+}
+
 .main-content h1,
 .main-content h2,
 .main-content h3,
