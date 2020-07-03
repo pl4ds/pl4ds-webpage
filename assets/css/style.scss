@@ -48,7 +48,7 @@ li{
 }
 
 .teaser{
-  font-size:1.1rem;
+  font-size:1.2rem;
   font-weight:bold;
 }
 .teaser,
@@ -84,6 +84,7 @@ li{
 .event-image{
   display: flex;
   align-items: center;
+  justify-content:end;
   background: #b1b1b100;
   padding:0 1rem;
   height:auto;
