@@ -45,8 +45,10 @@ li{
 }
 
 .underline{
-  margin-bottom:3rem;
   border-bottom:1px solid #ddd;
+}
+.mb{
+  margin-bottom:2.5rem !important;
 }
 
 .event{
@@ -58,7 +60,7 @@ li{
 }
 .event-content{
   max-width:500px;
-  padding:1.5rem;
+  padding:0.5rem 1.5rem 1rem 1.5rem;
 }
 .event-content h2{
   font-variant:small-caps;
