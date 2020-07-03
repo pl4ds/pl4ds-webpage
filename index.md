@@ -21,7 +21,7 @@ In recent years, there have been, notable advances in research on programming la
     <div class="event-content">
       <h2>Dagstuhl Seminar</h2>
       <span class="date">October 27 - 31, 2019 at Schloss Dagstuhl, Germany</span>
-      <p>Organized by <i>Carla Ferreira</i>, <i>Philipp Haller</i>, and <i>Guido Salvaneschi</i>.</p>
+      <p>Organized by Carla Ferreira, Philipp Haller, and Guido Salvaneschi.</p>
       <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442">Meeting Page</a>
       <a href="https://github.com/pl4ds/Dagstuhl-2019/blob/master/pages/Dagstuhl.md">Presentations</a>
     </div>
@@ -33,7 +33,7 @@ In recent years, there have been, notable advances in research on programming la
     <div class="event-content">
       <h2>Shonan Seminar</h2>
       <span class="date">May 27 - 30, 2019 in Shonan Village Center, Kamiyamaguchi, Japan</span>
-      <p>Organized by <i>Philipp Haller</i>, <i>Guido Salvaneschi</i>, <i>Takuo Watanabe</i>, and <i>Gul Agha</i>.</p>
+      <p>Organized by Philipp Haller, Guido Salvaneschi, Takuo Watanabe, and Gul Agha.</p>
       <a href="https://shonan.nii.ac.jp/seminars/149/">Meeting Page</a>
       <a href="https://github.com/pl4ds/Shonan-2019/blob/master/Pages/shonan.md">Presentations</a>
     </div>
@@ -45,7 +45,7 @@ In recent years, there have been, notable advances in research on programming la
     <div class="event-content">
       <h2>Meeting in Darmstadt</h2>
       <span class="date">February 23, 2019 in Darmstadt, Germany</span>
-      <p>Organized by <i>Guido Salvaneschi</i>, <i>Mira Mezini</i>, and <i>Philipp Haller</i>.</p>
+      <p>Organized by Guido Salvaneschi, Mira Mezini, and Philipp Haller.</p>
       <a href="https://github.com/pl4ds/Darmstadt-2018/blob/master/pages/darmstadt.md">Presentations</a>
     </div>
     <div class="event-image">
