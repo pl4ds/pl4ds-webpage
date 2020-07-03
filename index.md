@@ -18,9 +18,9 @@ In recent years, there have been, notable advances in research on programming la
 <ul>
   <li class="event">
     <div class="event-content">
-      <h3>PL4DS Dagstuhl Seminar</h3>
+      <h3>Dagstuhl Seminar</h3>
       <span class="date">October 2019</span>
-      <p>Organized by Carla Ferreira, Philipp Haller, Guido Salvaneschi.</p>
+      <p>The PL4DS Dagstuhl Seminar was held on October 27 - 31, 2019 at Schloss Dagstuhl, Germany. It was organized by <i>Carla Ferreira</i>, <i>Philipp Haller</i>, and <i>Guido Salvaneschi</i>.</p>
       <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442">Meeting Page</a>
       <a href="https://github.com/pl4ds/Dagstuhl-2019/blob/master/pages/Dagstuhl.md">Presentations</a>
     </div>
@@ -30,9 +30,9 @@ In recent years, there have been, notable advances in research on programming la
   </li>
   <li class="event">
     <div class="event-content">
-      <h3>PL4DS Shonan Seminar</h3>
+      <h3>Shonan Seminar</h3>
       <span class="date">May 2019</span>
-      <p>Organized by Philipp Haller, Guido Salvaneschi, Takuo Watanabe, Gul Agha.</p>
+      <p>The PL4DS Shonan Seminar was held from May 27 - 30, 2019 in the Shonan Village Center in Kamiyamaguchi, Japan. It was organized by <i>Philipp Haller</i>, <i>Guido Salvaneschi</i>, <i>Takuo Watanabe</i>, and <i>Gul Agha</i>.</p>
       <a href="https://shonan.nii.ac.jp/seminars/149/">Meeting Page</a>
       <a href="https://github.com/pl4ds/Shonan-2019/blob/master/Pages/shonan.md">Presentations</a>
     </div>
@@ -42,9 +42,9 @@ In recent years, there have been, notable advances in research on programming la
   </li>
   <li class="event">
     <div class="event-content">
-      <h3>PL4DS Meeting in Darmstadt</h3>
+      <h3>Meeting in Darmstadt</h3>
       <span class="date">February 2019</span>
-      <p>Organized by Guido Salvaneschi, Mira Mezini, Philipp Haller.</p>
+      <p>The PL4DS meeting was held on February 23, 2019 in Darmstadt, Germany. It was organized by <i>Guido Salvaneschi</i>, <i>Mira Mezini</i>, and <i>Philipp Haller</i>.</p>
       <a href="https://github.com/pl4ds/Darmstadt-2018/blob/master/pages/darmstadt.md">Presentations</a>
     </div>
     <div class="event-image">
