@@ -2,8 +2,6 @@
 
 <p class="subteaser">Programming languages for distributed systems have been flourishing in the past, providing ideas for the development of complex systems that have been deeply influential. However, over the last few years, researchers focusing on this area are scattered across different communities with limited interaction.</p>
 
-<p>Join us on Twitter with <a href="https://twitter.com/search?q=%23PL4DS" class="inline" style="margin-right:0">#PL4DS</a>!</p>
-
 #### What's this about?
 
 Developing distributed systems is a well-known, decades-old problem in Computer Science. Despite significant research effort has been dedicated to this area, developing distributed systems remains challenging. 
@@ -11,6 +9,10 @@ Developing distributed systems is a well-known, decades-old problem in Computer 
 Programming languages are a fundamental tool to face the complexity of such a scenario. In comparison, however, these have seen modest improvements. Arguably, many ideas for supporting distribution adopted in production languages date back to the early ’90s with CORBA/RMI, and even earlier with the Actor model and concurrent objects. 
 
 In recent years, there have been, notable advances in research on programming languages for distributed systems (e.g, CRDTs, lineage in Spark, functional programming in MapReduce, verification of distributed algorithms, language integrated queries). However, the researchers that have been carrying out these efforts are scattered across different communities that include verification and formal methods in general, programming language design, database theory, distributed systems, systems programming, data-centric programming, and web application development.
+
+<p>Join us on Twitter with <a href="https://twitter.com/search?q=%23PL4DS" class="inline" style="margin-right:0">#PL4DS</a>!</p>
+
+<br />
 
 <h4 class="block">Recent PL4DS Events</h4>
 <ul>
