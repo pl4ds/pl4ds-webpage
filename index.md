@@ -14,11 +14,11 @@ Programming languages are a fundamental tool to face the complexity of such a sc
 
 In recent years, there have been, notable advances in research on programming languages for distributed systems (e.g, CRDTs, lineage in Spark, functional programming in MapReduce, verification of distributed algorithms, language integrated queries). However, the researchers that have been carrying out these efforts are scattered across different communities that include verification and formal methods in general, programming language design, database theory, distributed systems, systems programming, data-centric programming, and web application development.
 
-<h2 class="block">Recent PL4DS Events</h2>
+<h3 class="block">Recent PL4DS Events</h2>
 <ul>
   <li class="event">
     <div class="event-content">
-      <h2>Dagstuhl Seminar</h2>
+      <h3>Dagstuhl Seminar</h3>
       <span class="date">October 27 - 31, 2019 at Schloss Dagstuhl, Germany</span>
       <p>Organized by Carla Ferreira, Philipp Haller, and Guido Salvaneschi.</p>
       <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442">Meeting Page</a>
@@ -30,7 +30,7 @@ In recent years, there have been, notable advances in research on programming la
   </li>
   <li class="event">
     <div class="event-content">
-      <h2>Shonan Seminar</h2>
+      <h3>Shonan Seminar</h3>
       <span class="date">May 27 - 30, 2019 in Shonan Village Center, Kamiyamaguchi, Japan</span>
       <p>Organized by Philipp Haller, Guido Salvaneschi, Takuo Watanabe, and Gul Agha.</p>
       <a href="https://shonan.nii.ac.jp/seminars/149/">Meeting Page</a>
@@ -42,7 +42,7 @@ In recent years, there have been, notable advances in research on programming la
   </li>
   <li class="event">
     <div class="event-content">
-      <h2>Meeting in Darmstadt</h2>
+      <h3>Meeting in Darmstadt</h3>
       <span class="date">February 23, 2019 in Darmstadt, Germany</span>
       <p>Organized by Guido Salvaneschi, Mira Mezini, and Philipp Haller.</p>
       <a href="https://github.com/pl4ds/Darmstadt-2018/blob/master/pages/darmstadt.md">Presentations</a>
