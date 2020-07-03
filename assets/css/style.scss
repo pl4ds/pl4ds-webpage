@@ -31,6 +31,14 @@
   opacity:0.8;
 }
 
+a.inline{
+  color:#8e6f47;
+}
+a.inline:hover{
+  text-decoration:none;
+  opacity:0.8; 
+}
+
 a:not(.inline){
   font-size:1rem;
   display: inline-block;
