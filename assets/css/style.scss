@@ -27,6 +27,9 @@
 .page-header .project-name{
   color:#47668e;
 }
+.page-header .project-tagline{
+  opacity:0.8;
+}
 
 a{
   font-size:1.1rem;
@@ -37,7 +40,8 @@ a{
 }
 p{
   font-size:0.875rem;
-  letter-spacing:0.02rem;
+  letter-spacing:0.03rem;
+  color:#43484e;
 }
 ul{
   padding:0 !important;
@@ -48,12 +52,10 @@ li{
 }
 
 .teaser{
+  letter-spacing:0.05rem;
+  font-style:italic;
   font-size:1.2rem;
   font-weight:bold;
-}
-.teaser,
-.subteaser{
-  letter-spacing:0.03rem;
 }
 
 .block{
