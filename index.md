@@ -27,7 +27,7 @@ In recent years, there have been, notable advances in research on programming la
       <a href="https://github.com/pl4ds/Dagstuhl-2019/blob/master/pages/Dagstuhl.md">Presentations</a>
     </div>
     <div class="event-image">
-      <img src="./assets/images/DagstuhlSeminar.jpg" alt="DagstuhlSeminar" width="250" align="right"/>
+      <img src="./assets/images/DagstuhlSeminar.jpg" alt="DagstuhlSeminar" align="right"/>
     </div>
   </li>
   <li class="event">
@@ -39,7 +39,7 @@ In recent years, there have been, notable advances in research on programming la
       <a href="https://github.com/pl4ds/Shonan-2019/blob/master/Pages/shonan.md">Presentations</a>
     </div>
     <div class="event-image">
-      <img src="./assets/images/group_photo.jpg" alt="group_photo" width="250" align="right"/>
+      <img src="./assets/images/group_photo.jpg" alt="group_photo" align="right"/>
     </div>
   </li>
   <li class="event">
@@ -50,7 +50,7 @@ In recent years, there have been, notable advances in research on programming la
       <a href="https://github.com/pl4ds/Darmstadt-2018/blob/master/pages/darmstadt.md">Presentations</a>
     </div>
     <div class="event-image">
-      <img src="./assets/images/TU_Darmstadt_Logo.png" alt="TU_Darmstadt_Logo" width="250" align="right"/>
+      <img src="./assets/images/TU_Darmstadt_Logo.png" alt="TU_Darmstadt_Logo" align="right"/>
     </div>
   </li>
 </ul>
