@@ -2,7 +2,7 @@
 
 <p class="subteaser">Programming languages for distributed systems have been flourishing in the past, providing ideas for the development of complex systems that have been deeply influential. However, over the last few years, researchers focusing on this area are scattered across different communities with limited interaction.</p>
 
-<p>Join us on Twitter with <a href="https://twitter.com/search?q=%23PL4DS" style="margin-right:0">#PL4DS</a>!</p>
+<p>Join us on Twitter with <a href="https://twitter.com/search?q=%23PL4DS" class="inline" style="margin-right:0">#PL4DS</a>!</p>
 
 #### What's this about?
 
