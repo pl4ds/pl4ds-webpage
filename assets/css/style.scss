@@ -8,8 +8,10 @@
 .main-content h3,
 .main-content h4,
 .main-content h5,
-.main-content h6{
-  color:#8E4766;
+.main-content h6,
+.page-header .project-tagline,
+.teaser{
+  color:#753d56;
 }
 
 .page-header{
@@ -24,9 +26,6 @@
 }
 .page-header .project-name{
   color:#47668e;
-}
-.page-header .project-tagline{
-  color:#8E6F47;
 }
 
 a{
@@ -49,7 +48,6 @@ li{
 }
 
 .teaser{
-  color:#8E4766;
   font-size:1.1rem;
   font-weight:bold;
 }
@@ -59,7 +57,7 @@ li{
 }
 
 .block{
-  background:#555;
+  background:#47668e;
   color:#fff !important;
   font-weight:bold !important;
   margin-bottom:0 !important;
@@ -93,7 +91,7 @@ li{
 }
 .event-image img{
   box-shadow:0 0 5px 1px #ddd;
-  max-height:100%;
+  max-height:85%;
   object-fit:fill;
   border-radius: 3px;
 }
