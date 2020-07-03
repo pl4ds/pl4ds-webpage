@@ -4,7 +4,7 @@
 
 <p>Join us on Twitter with <a href="https://twitter.com/search?q=%23PL4DS" style="margin-right:0">#PL4DS</a>!</p>
 
-### What this is about
+#### What's this about?
 
 Developing distributed systems is a well-known, decades-old problem in Computer Science. Despite significant research effort has been dedicated to this area, developing distributed systems remains challenging. 
 
