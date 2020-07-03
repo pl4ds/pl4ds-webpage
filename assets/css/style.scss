@@ -44,19 +44,22 @@ li{
   letter-spacing:0.025rem;
 }
 
-.underline{
-  border-bottom:1px solid #ddd;
-}
-.mb{
-  margin-bottom:2.5rem !important;
+.block{
+  background:#555;
+  color:#fff;
+  padding:0.5rem 1rem;
+  width:100%;
 }
 
 .event{
-  box-shadow:-0.1rem 0.1rem 0.3rem rgba(0,0,0,0.1) !important;
+  border:1px solid #ddd;
   display: flex;
   justify-content:space-between;
   flex-wrap: wrap;
   background-color: #f5f9fd87;
+}
+.event:first-child{
+  border-top:none !important;
 }
 .event-content{
   max-width:500px;
@@ -77,9 +80,6 @@ li{
   box-shadow:0 0 5px 1px #ddd;
   max-height:100%;
   object-fit:fill;
-}
-.event,
-.event-image img{
   border-radius: 3px;
 }
 
