@@ -50,17 +50,21 @@ li{
   padding:1.5rem;
 }
 .event-image{
+  display: flex;
+  align-items: center;
+  background: #b1b1b100;
+  padding:0 1rem;
   height:auto;
   max-width:300px;
 }
 .event-image img{
-  min-height:100%;
+  box-shadow:0 0 5px 1px #ddd;
   max-height:100%;
   object-fit:fill;
 }
 .event,
 .event-image img{
-  border-radius: 0 5px 5px 0;
+  border-radius: 3px;
 }
 
 .date{
