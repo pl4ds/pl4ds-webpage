@@ -34,17 +34,27 @@ li{
   margin-bottom:3rem;
 }
 
+.teaser{
+  font-weight:bold;
+  color:#008080;
+}
+.teaser,
+.subteaser{
+  letter-spacing:0.025rem;
+  font-size:1.1rem;
+}
+
 .underline{
   margin-bottom:3rem;
   border-bottom:1px solid #ddd;
 }
 
 .event{
-  box-shadow:-0.1rem 0.1rem 0.5rem rgba(0,0,0,0.15) !important;
+  box-shadow:-0.1rem 0.1rem 0.3rem rgba(0,0,0,0.1) !important;
   display: flex;
   justify-content:space-between;
   flex-wrap: wrap;
-  background-color: #f5f9fd;
+  background-color: #f5f9fd87;
 }
 .event-content{
   max-width:500px;
