@@ -13,8 +13,11 @@
 }
 
 .page-header{
-  background-color:#654165;
-  background:#654165 linear-gradient(60deg, #654165, #494165);
+  background:#654165;
+  background:linear-gradient(60deg, #654165, #494165);
+  padding-bottom:3rem;
+  border-bottom:20px solid #ffffff6b;
+  margin-bottom:1rem;
   //background:url(../images/cool-background.png) no-repeat center;
 }
 
@@ -31,8 +34,9 @@ p{
 }
 ul{
   padding:0 !important;
+  margin-bottom:3rem;
 }
-ul,li{
+li{
   margin:0 !important;
 }
 
