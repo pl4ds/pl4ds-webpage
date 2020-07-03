@@ -14,7 +14,8 @@
 
 .page-header{
   background-color:#654165;
-  background:linear-gradient(60deg, #654165, #494165) url(./assets/images/cool-background.jpg) no-repeat center;
+  background:#654165 linear-gradient(60deg, #654165, #494165);
+  //background:url(../images/cool-background.png) no-repeat center;
 }
 
 a{
@@ -30,8 +31,8 @@ p{
 ul{
   padding:0 !important;
 }
-li{
-  margin-bottom:2rem;
+ul,li{
+  margin:0 !important;
 }
 
 .teaser{
@@ -50,16 +51,17 @@ li{
   padding:0.5rem 1rem;
   width:100%;
 }
+.block *{
+  color:#fff !important;
+}
 
 .event{
   border:1px solid #ddd;
+  border-top:none !important;
   display: flex;
   justify-content:space-between;
   flex-wrap: wrap;
   background-color: #f5f9fd87;
-}
-.event:first-child{
-  border-top:none !important;
 }
 .event-content{
   max-width:500px;
